@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.imgur.com/8oeKKEc.jpeg",
+      "value":"https://files.catbox.moe/ckby4d.jpg,https://files.catbox.moe/9a4ved.jpg,https://files.catbox.moe/13oojj.jpg",
       "required":false
        
      },
