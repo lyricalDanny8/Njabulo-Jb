@@ -15,7 +15,7 @@ const conf = require('../set');
 zokou(
   {
     nomCom: 'Njabulo-JB',
-    categorie: 'General',
+    categorie: 'Njabulo_JB',
     reaction: '🚀',
     alias: ['p']
   },
