@@ -14,7 +14,7 @@ const conf = require('../set');
 
 zokou(
   {
-    nomCom: 'ping',
+    nomCom: 'Njabulo-JB',
     categorie: 'General',
     reaction: '🚀',
     alias: ['p']
@@ -39,7 +39,7 @@ zokou(
       }});
     await zk.sendMessage(dest, {
       react: {
-        text: "⚙️", key: ms.key
+        text: "🚔", key: ms.key
       }})
   }
 )
