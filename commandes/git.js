@@ -35,23 +35,22 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
    *NJABULO JBIMPORTANT INFO* 
-❒───────────────────❒
+❒─〔 *☆Njabulo_JB☂︎* 〕─❒
 *GITHUB LINK*
 > https://github.com/NjabuloJ/Njabulo-jb
 
 *WHATSAPP GROUP*
 > https://whatsapp.com/channel/0029VarYP5iAInPtfQ8fRb2T
-⁠
-╭───────────────────❒
+[welcome online bot working 100%]
+╭==================────❒
 │🎩⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │💓 *DEV1* : *Njabulo Jb*
 │Ⓜ️⁠⁠⁠⁠ *DEV2* : *Marisel*
-⁠⁠⁠⁠╰───────────────────❒
+⁠⁠⁠⁠╰===================───❒
   `;
     
 let menuMsg = `
-     *Njabulo JB*
-
+ *🚔Njabulo_JB_Office🚔*
 ❒────────────────────❒`;
 
    var lien = mybotpic();
