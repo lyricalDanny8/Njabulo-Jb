@@ -1,4 +1,4 @@
-🚔NJABULO JB OFFICE ONLINE 24/7🚔
+🚔ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴏғғɪᴄᴇ ᴏɴʟɪɴᴇ 24/7🚔
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
