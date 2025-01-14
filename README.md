@@ -1,4 +1,4 @@
-🚔ɴᴊᴀʙᴜʟᴏ ᴊʙ ᴏғғɪᴄᴇ ᴏɴʟɪɴᴇ 24/7🚔
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +NJABULO;WHATSAPP+BOT+CREATED+BY+NJABULO" alt="Typing SVG" /></a>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
