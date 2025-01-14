@@ -109,8 +109,20 @@ DEPLOYMENT :
 - [**MARISEL TECH**](https://github.com/betingrich3/Mercedes)
 - [**CHANNEL**](https://shorturl.at/q8ZuS)
 - [**Developers YT**](https://youtube.com/watch?v=yuFuKu9SUIM)
--
 
+
+</div>
+
+
+
+
+
+
+<p align="center">
+    <a href="https://chat.whatsapp.com/GfmBCCZR34g5EqMHpFLzZN">
+        <img height="30" title="Support Group" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
+</p>
 
 ## Njabulo support 
 
