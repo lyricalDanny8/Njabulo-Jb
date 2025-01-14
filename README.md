@@ -102,6 +102,16 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+DEPLOYMENT :
+
+- [**NJABULO TECH**](https://github.com/NjabuloJ/Njabulo-jb)
+- [**MARISEL TECH**](https://github.com/betingrich3/Mercedes)
+- [**CHANNEL**](https://shorturl.at/q8ZuS)
+- [**Developers YT**](https://youtube.com/watch?v=yuFuKu9SUIM)
+-
+
+
 ## Njabulo support 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=MULT JB BOT +MAKE; STAR ⭐+AND+FORKS+BY+NJABULO" alt="Typing SVG" /></a>
