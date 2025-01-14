@@ -16,7 +16,7 @@
 
 
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐁𝐎𝐓 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=+; 𝐁𝐎𝐓+ 𝐈𝐒+100%+𝐒𝐀𝐅𝐄+𝐎𝐍+𝐇𝐄𝐑𝐎𝐊𝐔" alt="Typing SVG" /></a>
 
 
 <p align="center">
